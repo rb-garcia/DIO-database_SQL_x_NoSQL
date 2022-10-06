@@ -9,7 +9,7 @@ Os SGBD não relacionais surgiram como solução para suprir necessidades onde o
 # Bases de Dados Relacionais (SQL)
 Nas bases de dados relacionais, os dados estão armazenados no formato de tabelas, utilizando o conceito de entidade e relacionamento. Nesse conceito procura-se evitar a redundância e as tabelas utilizam-se de relações para confirmar a integridade dos dados. Algumas das principais características são: atomicidade, consistência, isolamento e durabilidade (ACID).
 
-Exemplos SGBD Relacionais <b>
+Exemplos SGBD Relacionais </b>
 •	IBM DB2: desenvolvido pela IBM, lançado em 1983, baseado em SQL/DS para o mainframe da própria empresa. Atualmente comercializado em diferentes edições.
 
 •	Microsoft SQL Server: desenvolvido pela Microsoft, lançado em 1988. Atualmente comercializado em diferentes edições. Utiliza-se para acessar os dados T-SQL e ANSI SQL.
