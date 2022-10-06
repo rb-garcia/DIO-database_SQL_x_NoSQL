@@ -18,3 +18,17 @@ Exemplos SGBD Relacionais <br />
 •	Oracle: desenvolvido pela empresa Oracle, lançado nos anos 70. Utiliza-se a linguagem de programação PL/SQL para acessar os dados. Atualmente comercializado em diferentes edições.
 
 •	PostgreSQL: SGBD de código aberto. Coordenado pelo PostgreSQL Global Development Group. Diversas organizações em todo o mundo patrocinam o projeto.
+
+# Bases de Dados Não Relacionais (NoSQL)
+Nas bases de dados não relacionais, os dados podem ser armazenados de diferentes formas. Alguns dos pontos mais fortes são a escalabilidade e desempenho. São utilizados como uma solução alternativa para os SGBD relacionais em projetos específicos. As bases de dados não relacionais foram desenvolvidas em resposta às demandas que surgiram na construção de aplicações modernas.
+
+Exemplos SGBD Não relacionais <br />
+•	MongoDB: núcleo de armazenamento baseado em XML ou JSON, “Document Store”.
+
+•	Cassandra: núcleo de armazenamento baseado em Big Table, “Wide Columns Store”.
+
+•	HBase (Apache): núcleo de armazenamento baseado em Big Table, “Wide Columns Store”.
+
+•	CouchDB: núcleo de armazenamento baseado em documentos XML ou JSON.
+
+•	Riak: núcleo de armazenamento baseado em documentos XML ou JSON.
