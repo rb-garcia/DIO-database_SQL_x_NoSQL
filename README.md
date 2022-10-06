@@ -11,7 +11,11 @@ Nas bases de dados relacionais, os dados estão armazenados no formato de tabela
 
 Exemplos SGBD Relacionais
 •	IBM DB2: desenvolvido pela IBM, lançado em 1983, baseado em SQL/DS para o mainframe da própria empresa. Atualmente comercializado em diferentes edições.
+
 •	Microsoft SQL Server: desenvolvido pela Microsoft, lançado em 1988. Atualmente comercializado em diferentes edições. Utiliza-se para acessar os dados T-SQL e ANSI SQL.
+
 •	FireBird: SGBD de código aberto. Desenvolvimento e manutenção coordenado pela Fundação FirebirdSQL. Sendo de código aberto, não existe custos de licença.
+
 •	Oracle: desenvolvido pela empresa Oracle, lançado nos anos 70. Utiliza-se a linguagem de programação PL/SQL para acessar os dados. Atualmente comercializado em diferentes edições.
+
 •	PostgreSQL: SGBD de código aberto. Coordenado pelo PostgreSQL Global Development Group. Diversas organizações em todo o mundo patrocinam o projeto.
