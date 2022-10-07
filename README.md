@@ -53,5 +53,5 @@ Definição/Tipos SGBD Não Relacionais <br />
 
 •	Os SGBD não relacionais proporcionam uma solução de armazenamento e disponibilidade viável em diferentes tipos de sistemas, podendo ser uma solução única ou utilizada em conjunto com os SGBD relacionais. SGBD não relacionais suprem os requisitos de desempenho e escalabilidade que muitas vezes não podem ser atingidos por SGBD tradicionais.
 
-
-
+# Databases Ranking
+https://db-engines.com/en/ranking
