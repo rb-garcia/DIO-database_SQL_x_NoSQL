@@ -42,7 +42,7 @@ Definição/Tipos SGBD Não Relacionais <br />
 
 •	Graph Databases: maior complexibilidade. O modelo de graph database, como é chamado, caracteriza-se por ter estruturas de dados onde os esquemas e/ou instâncias são modelados como grafos. Exemplos: Neo4J, OrientDB, InfoGrid. Aplicações recomendadas: recomendações em tempo real, gestão de identidade e acesso, detecção de fraudes, operações de TI. Principais clientes: Neo4J/eBay, Walmart, Cisco, HP, Tomtom, UBS.
 
-# Considerações na Prática
+# Considerações Práticas
 •	Os SGBD não relacionais e relacionais possuem abordagens diferentes, mas partem do mesmo princípio, armazenar dados. A escolha de uma ou outra tecnologia poderá ajudar ou dificultar o desenvolvimento do projeto. Todos os requisitos devem ser analisados para determinar qual tecnologia é a melhor escolha. Os SGBD não relacionais não substituem os relacionais, são uma alternativa e em determinados projetos se tornam a única opção.
 
 •	Não existe uma tecnologia melhor ou pior. Em alguns projetos os SGBD relacionais se adaptam melhor aos não relacionais, da mesma forma o contrário também é verdadeiro. Em alguns projetos a utilização das duas tecnologias podem ser utilizadas de forma intercambiável.
