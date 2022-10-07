@@ -33,7 +33,7 @@ Exemplos SGBD Não relacionais <br />
 
 •	Riak: núcleo de armazenamento baseado em documentos XML ou JSON.
 
-# Definição/Tipos SGBD Não Relacionais
+Definição/Tipos SGBD Não Relacionais <br />
 •	Wide Column Store / Column Families: é um tipo de armazenamento chave / valor. Utiliza tabelas, linhas e colunas, mas diferente de um banco de dados relacional, os nomes e formatos de colunas podem variar de linha a linha na mesma tabela. O conceito empregado nessa tecnologia melhora o desempenho em sistemas OLAP. Exemplos: Cassandra, HBase, Microsoft Azure Cosmos. Aplicações recomendadas: IOT, aplicações de detecção de fraudes, motores de recomendação, catálogos de produtos, listas de reprodução e aplicações de mensagens. Principais clientes: Cassandra/NY Times, eBay, Sky.
 
 •	Document Store: baseado em documentos XML ou JSON. Caracterizam-se pela organização livre de esquemas de dados. Os registros não precisam ter uma estrutura uniforme, isto é, registros diferentes podem ter diferentes colunas. Essa tecnologia exigira o processamento das estruturas do lado do cliente, tendo a desvantagem da não disponibilidade de índices secundários. Exemplos: MongoDB, Amazon DynamoDB, CouchDB. Aplicações recomendadas: IOT, mobile, analises em tempo real, catálogos, gestão de conteúdo. Principais clientes: MongoDB/Adobe, BBVA, Bosch, Cisco, eBay, Expedia, Forbes, Sage.
